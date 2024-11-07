@@ -6,7 +6,7 @@ Project Pengembangan Aplikasi Mobile Lanjut - Flutter.
 
 ![Preview](ScreenShot/Splash.jpg)
 ![Preview](ScreenShot/LoginResponsi.jpg)
-![Preview](ScreenShot/RegisterResponsi.jpg)
+![Preview](ScreenShot/RegisterResposi.jpg)
 ![Preview](ScreenShot/LupaPasswordResponsi.jpg)
 ![Preview](ScreenShot/HomeResponsi.jpg)
 ![Preview](ScreenShot/AkunResponsi.jpg)
